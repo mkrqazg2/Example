@@ -1,0 +1,15 @@
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\bin\Debug\net6.0\Example001_Hello console.exe
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\bin\Debug\net6.0\Example001_Hello console.deps.json
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\bin\Debug\net6.0\Example001_Hello console.runtimeconfig.json
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\bin\Debug\net6.0\Example001_Hello console.dll
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\bin\Debug\net6.0\ref\Example001_Hello console.dll
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\bin\Debug\net6.0\Example001_Hello console.pdb
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.csproj.AssemblyReference.cache
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.AssemblyInfoInputs.cache
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.AssemblyInfo.cs
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.csproj.CoreCompileInputs.cache
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.dll
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\ref\Example001_Hello console.dll
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.pdb
+C:\Users\Вася\Desktop\Examples\Example001_Hello console\obj\Debug\net6.0\Example001_Hello console.genruntimeconfig.cache
